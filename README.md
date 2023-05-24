@@ -1,11 +1,6 @@
 ### Olá! Meu nome é Matheus Costa
 - Estudante de Análise e Desenvolvimento de sistemas
 
-
-<a href="https://joaovictornsv.vercel.app" title="Entre no portal">
-  <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
-</a>
-
 <div align="center">
   <a href="https://github.com/MatheusCsFr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCsFr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
